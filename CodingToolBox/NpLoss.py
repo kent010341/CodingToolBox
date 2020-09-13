@@ -1,0 +1,1 @@
+from .core.ErrFunc import MSE, RMSE, MAE, MAPE, SNR, SSIM
