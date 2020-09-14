@@ -10,6 +10,4 @@ Extension mathods that doesn't support by Numpy or Scipy.
       * Array that used to calculate norm.
     * p: int, optional (default=1)
       * Variable p in formula: 
-      ```math
-      \norm \textbf{x} \norm _p = \left(\sum_i{x_i} \right)^{\frac{1}{p}}
-      ```
+        ![](https://latex.codecogs.com/svg.latex?||\textbf{x}||_p%20=%20\left(\sum_i{x_i}%20\right)^{\frac{1}{p}})
