@@ -9,7 +9,4 @@ Extension mathods that doesn't support by Numpy or Scipy.
     * arr: numpy.ndarray (or any calculating supported type)
       * Array that used to calculate norm.
     * p: int, optional (default=1)
-      * Variable p in formula
-        $$
-        \norm \textbf{x} \norm _p = \left(\sum_i{x_i} \right)^{\frac{1}{p}}
-        $$
+      * Variable p in formula: $\norm \textbf{x} \norm _p = \left(\sum_i{x_i} \right)^{\frac{1}{p}}$
